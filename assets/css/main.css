@@ -34,31 +34,68 @@ ul{
 /*.opcion{
   background-color: #4E4E5A;
   color: white; */
-}
+
 li{
-  margin-top: 0px;
   display: inline;
-  margin: 0 0.4em;
+  margin: 0 0.2em;
 }
 /*INFORMACIÓN*/
 
 .contenedor03{
+  margin: 21px
 
 }
-.contenedor03{
+.contenedor03a{
+  margin: 21px
 
 }
-.odebrecht{
-  background-color: #4D4D59;
+    .odebrecht{
+      background-color: #4D4D59;
+      column-count: 2;
+
+    }
+    .contenedor03a1{
+      column-count: 2;
+      margin: 0 auto;
+
+    }
+.contenedor03b{
+  margin: 21px;
+
 }
 .alejandra{
   background-color: #4D4D59;
 }
-
 .corea{
   background-color: #4D4D59;
+  margin-top: 14px;
+}
+.senora{
+  background-color: #FF0004;
+  column-count: 2;
+  margin-top: 14px;
+  margin-bottom: 14px;
 }
 
+.alcalde{
+  background-color: #1363A9;
+  column-count: 2;
+
+}
+.senora01{
+  left: 14px;
+}
+.futbol{
+  background-color: #1363A9;
+  column-count: 2;
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.fut{
+  width: 210px;
+  height: 210px;
+}
 
 
 
