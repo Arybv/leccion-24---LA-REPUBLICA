@@ -42,43 +42,58 @@ li{
 /*INFORMACIÓN*/
 
 .contenedor03{
-  margin: 21px;
+  margin: 0;
+  column-count: 2;
+  background-color: #EBEBEB;
+  color: #FFFFFF;
+
+  font-size: 21px;
 }
 .contenedor03a{
-  margin: 21px;
+  margin: 28px 21px;
 }
     .odebrecht{
       background-color: #4D4D59;
       column-count: 2;
-      padding: 14px 14px;
-      margin: 2px;
+      padding: 21px 21px;
+      margin: 7px;
+      width: auto;
+      height: auto;
     }
     .odebrecht01{
-      width: 210px;
-      height: 210px;
+      width: 273px;
+      height: 191px;
+      margin: 0 auto;
     }
     .contenedor03a1{
       column-count: 2;
       margin: 0 auto;
-
     }
+.contenedor03a{
+  background-color: #FFFFFF;
+}
 .contenedor03b{
   margin: 21px;
-
+  background-color: #ffffff;
+  rows: 2;
 }
 .alejandra{
   background-color: #4D4D59;
+  margin: 7px;
 }
 .alejandra01{
-  width: 210px;
-  height: 210px;
+  width: 194px;
+  height: 140px;
+  margin: 0 auto;
 }
 .corea{
   background-color: #4D4D59;
+  margin: 7px;
 }
 .corea01{
-  width: 210px;
-  height: 210px;
+  width: 194px;
+  height: 140px;
+  margin: 0 auto;
 }
 .senora{
   background-color: #FF0004;
@@ -86,16 +101,13 @@ li{
   margin-top: 14px;
   margin-bottom: 14px;
 }
-.senora01{
-  right: 114px;
-}
 .alcalde{
   background-color: #1363A9;
   column-count: 2;
 }
 .alcalde01{
-  width: 210px;
-  height: 210px;
+  width: 119px;
+  height: 119px;
 }
 .futbol{
   background-color: #1363A9;
@@ -104,15 +116,10 @@ li{
   margin-bottom: 14px;
 }
 .futbol01{
-  width: 210px;
-  height: 210px;
+  width: 19px;
+  height: 119px;
 }
 .anuncio01{
-  width: 210px;
-  height: 210px;
-}
-.sprite-twitter {
-    width: 30px;
-    height: 30px;
-    background-position: -85px -45px;
+  width: 490px;
+  height: 84px;
 }
