@@ -1,0 +1,69 @@
+body{
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+/*LOGO - LA REPÚBLICA*/
+.contenedor01{
+  margin: 0;
+  padding: 0;
+  background-color: #E00109;
+}
+.imagen{
+  padding: 7px;
+  padding-left: 7rem;
+}
+/*BARRA - MENú*/
+.barra{
+  margin: 0 auto;
+  background-color: #5C5C66;
+}
+.menu{
+  margin: 0 auto;
+  background-color: #5C5C66;
+  color: white;
+}
+ul{
+  margin-top: 0px;
+  margin-bottom: 0;
+  padding: 14px;
+  list-style: none;
+  padding-left: 7.7em;
+  background-color: #4D4D59;
+}
+/*.opcion{
+  background-color: #4E4E5A;
+  color: white; */
+}
+li{
+  margin-top: 0px;
+  display: inline;
+  margin: 0 0.4em;
+}
+/*INFORMACIÓN*/
+
+.contenedor03{
+
+}
+.contenedor03{
+
+}
+.odebrecht{
+  background-color: #4D4D59;
+}
+.alejandra{
+  background-color: #4D4D59;
+}
+
+.corea{
+  background-color: #4D4D59;
+}
+
+
+
+
+.sprite-twitter {
+    width: 30px;
+    height: 30px;
+    background-position: -85px -45px;
+}
