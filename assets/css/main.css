@@ -42,17 +42,20 @@ li{
 /*INFORMACIÓN*/
 
 .contenedor03{
-  margin: 21px
-
+  margin: 21px;
 }
 .contenedor03a{
-  margin: 21px
-
+  margin: 21px;
 }
     .odebrecht{
       background-color: #4D4D59;
       column-count: 2;
-
+      padding: 14px 14px;
+      margin: 2px;
+    }
+    .odebrecht01{
+      width: 210px;
+      height: 210px;
     }
     .contenedor03a1{
       column-count: 2;
@@ -66,9 +69,16 @@ li{
 .alejandra{
   background-color: #4D4D59;
 }
+.alejandra01{
+  width: 210px;
+  height: 210px;
+}
 .corea{
   background-color: #4D4D59;
-  margin-top: 14px;
+}
+.corea01{
+  width: 210px;
+  height: 210px;
 }
 .senora{
   background-color: #FF0004;
@@ -76,14 +86,16 @@ li{
   margin-top: 14px;
   margin-bottom: 14px;
 }
-
+.senora01{
+  right: 114px;
+}
 .alcalde{
   background-color: #1363A9;
   column-count: 2;
-
 }
-.senora01{
-  left: 14px;
+.alcalde01{
+  width: 210px;
+  height: 210px;
 }
 .futbol{
   background-color: #1363A9;
@@ -91,14 +103,14 @@ li{
   margin-top: 14px;
   margin-bottom: 14px;
 }
-
-.fut{
+.futbol01{
   width: 210px;
   height: 210px;
 }
-
-
-
+.anuncio01{
+  width: 210px;
+  height: 210px;
+}
 .sprite-twitter {
     width: 30px;
     height: 30px;
